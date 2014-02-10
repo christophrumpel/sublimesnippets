@@ -6,7 +6,8 @@
 |--------------------------------------------------------------------------
 |
 | Author: ${3:Christoph Rumpel}
-| Date: ${4:date}
+| Created: ${4:date}
+| Updated: ${4:date}
 | Version: ${5:v0.01}
 |
 */
